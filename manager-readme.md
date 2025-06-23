@@ -2,7 +2,7 @@
 
 ## About This Document
 
-This README is designed to help you understand how I work, what you can expect from me, and what I expect from you. It's a living document that will evolve as we work together. Think of it as a user guide to working with me—not a replacement for getting to know each other, but a head start.
+This README is designed to help you understand how I work, what you can expect from me, and what I expect from you. It's a living document that will evolve as we work together. Think of it as a user guide to working with me, not a replacement for getting to know each other, but a head start.
 
 ## About Me
 
@@ -20,7 +20,7 @@ My job is to:
 - **Remove blockers**: I'm here to help understand, challenge and find creative ways through blockers enabling us to do our best work
 - **Product management**: Building, strong partnerships with Product Management where we build empathy for end-user needs and their priorities whilst ensuring the engineering perspective is fully understood
 - **Supporting your growth**: Through coaching, and helping enable new stretch opportunities whilst supporting closely
-- **Creating space for autonomy**: I'll set ambitious goals and guardrails, but trust you to find the best path but I'm here to help.
+- **Creating space for autonomy**: I'll set ambitious goals and guardrails but trust you to find the best path. I'm here to help.
 - **Championing your success**: Ensuring you get the recognition you deserve, both internally and externally
 
 ## My Leadership Philosophy
@@ -37,8 +37,8 @@ I will (respectfully!) challenge assumptions and use curiosity and techniques li
 ### Transparency & Context
 It's important for everyone to understand the "why" behind organisational/roadmap changes. I'll share as much context as possible when these happen.
 
-### Embrace Experimentation
-I encourage experimentation through spikes and MVPs, ideally testing with real-world users throgh A/B testing. Let's prove value quickly before scaling. I expect teams to iterate fast and deliver meaningful outcomes where possible.
+### Embrace experimentation
+I encourage experimentation through spikes and MVPs, ideally testing with real-world users through A/B testing. Let's prove value quickly before getting too far into something. I expect teams to iterate fast and get things into the hands of users as quickly as is sensible.
 
 ## Communication & Availability
 
@@ -50,7 +50,7 @@ I encourage experimentation through spikes and MVPs, ideally testing with real-w
 ### Open Door Policy
 I have an **open-door policy** and will provide regular [office hour](https://www.atteline.com/the-power-of-office-hours/) time for everyone across my teams. 
 
-If you need me, I'm available. Don't hesitate to reach out at any time *regardless* of where you sit across my teams.
+If you need me, I'm available. Don't hesitate to reach out at any time *regardless* of where you sit across my teams. I know this might seem daunting, I've been there myself, but you really should take full advantage. I will always make the time.
 
 ### Decision Making & Communication
 
@@ -94,18 +94,18 @@ These happen roughly every quarter, but I'm always available if something urgent
 
 ## What I Expect From You
 
-- **Take ownership**: You have the power to make decisions and drive outcomes
-- **Entire lifecycle**: We as engineers, not only write the software, but are responsible for testing it (in partnership with testers) and it's ongoing support once deployed into live
+- **Take ownership**: You have the power to make decisions and drive outcomes but also own resolution of any issues along the way with my support
+- **Entire lifecycle**: We as engineers, not only write the software, but are responsible for testing it, it's quality and it's ongoing support once deployed into live. No "throwing over the fence"
 - **Communicate openly**: If there's a problem, concern, or better way, I want to hear it  
 - **Be curious & challenge assumptions**: Ask "why?" and think critically  
 - **Act with urgency & purpose**: Deliver value quickly and iterate from there  
 - **Invest in your growth**: Seek learning opportunities and take on challenges  
-- **Close the loop**: Follow through on commitments and keep me informed  
+- **Close the loop**: When we discuss something that requires next steps, please follow up and keep me informed 
 
 ## My Quirks & Things to Know
 
-- I have a strong bias for action. I believe progress is made by getting things into users' hands quickly so expect me to push on opportunities to enable this, especially when faced with a long delivery timescale
-- It's totally file to say "I don't know" but do expect curiosity and initiative to go find out and let me know how I can support
+- I have a strong bias for action. I believe progress is made by getting things into users' hands quickly so expect me to push on opportunities to enable this, especially when faced with a long delivery timescale. I may even jump-in and help prove out a technical point to help. This helps me validate my thinking at times and hopefully helps connect dots and move things forward.
+- It's totally fine to say "I don't know", in fact encouraged! But I do expect curiosity and initiative to go find out and let me know how I can support
 - I love data and will often ask for metrics to support decisions
 - I get excited about technical details and might dive deep, it's **not** that I don't trust you, I'm just curious!
 - End-to-end Observability across the whole product is a fundamental, non-negotiable principle for me. I had my fingers burnt many years ago when inheriting a complex, mission critical product suffering from significant operational issues that had almost no telemetry!
@@ -115,10 +115,10 @@ These happen roughly every quarter, but I'm always available if something urgent
 I take career development seriously. I'm proud of the people whose careers I've helped accelerate and those who've chosen to return to my teams. I believe growth comes from:
 - Taking on new challenges
 - Learning from failures (fail fast, learn faster)
-- Exposure to different parts of the business
-- Building both depth and breadth of skills
+- Exposure to different parts of the stack
+- Building both depth and breadth of skills (T-Shaped Engineer)
 
-Let's talk regularly about your career aspirations and how we can work towards them.
+Let's talk regularly about your career aspirations and how we can work towards them. It's fine, especially earlier in your career to not have a firm view but let's discuss about what you enjoy and what you don't.
 
 ## Work-Life Balance & Boundaries
 
@@ -128,16 +128,16 @@ You have my explicit **encouragement** to disconnect. When you're off, be off. W
 
 **What this means in practice:**
 - I don't expect responses to messages outside working hours
-- If I send something late or at the weekend, it's because that's when I had time to think about it, not because I expect an immediate response
+- If I send something late or at the weekend, it's because that's when I had time to think about it, not because I expect an immediate response. I'll always try to delay send where possible.
 - "I'll look at this tomorrow/Monday" is a perfectly acceptable response
-- If something is truly urgent, I'll state this up-front and we'll work together to figure out how who and how can help.
+- If something is truly urgent, I'll state this up-front, and we'll work together to figure out who needs to do what.
 
 ### Setting Healthy Boundaries
 
 Building great products is a marathon, not a sprint. I've seen too many brilliant engineers burn out because they couldn't switch off. Here's how I'll support your boundaries:
 
 - **Protect your focus time** - Block out deep work time in your calendar. I'll respect it
-- **Life happens** - Need to pick up kids, walk the dog, deal with life? Do it. Just keep us informed
+- **Life happens** - Need to pick up kids, walk the dog, deal with life? Do it. Just keep people informed
 - **Sustainable pace** - If you're regularly working more than your contracted hours, let's talk. Either we have a resourcing issue or unrealistic expectations
 
 ### When Boundaries Get Blurry
