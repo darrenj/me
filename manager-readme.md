@@ -10,7 +10,7 @@ I'm Darren, I've spent 25+ years in software engineering roles, some of which we
 
 I've had the privilege of working on innovative, ground-breaking projects for organisations like THG, BBC, BMW, Coca Cola, Met Police, and Nationwide Building Society. I've led teams ranging from small squads to 200+ engineers, and I take pride in the careers I've helped accelerate along the way.
 
-I'm a hands-on technical leader who still loves diving into the code where appropriate, but I'm equally comfortable helping define the business strategy and really understand the user needs. I believe the best solutions come from understanding both the technical possibilities and the human problems we're trying to solve.
+I'm a hands-on technical leader who still loves diving into the code where appropriate, but I'm equally comfortable helping define the business strategy and deeply understanding the actual end user needs. I believe the best solutions come from understanding both the technical possibilities and the human problems we're trying to solve.
 
 ## My Role as I See It
 
