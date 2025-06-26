@@ -131,15 +131,15 @@ You have my explicit **encouragement** to disconnect. When you're off, be off. W
 - I don't expect responses to messages outside working hours
 - If I send something late or at the weekend, it's because that's when I had time to think about it, not because I expect an immediate response. I'll always try to delay send where possible.
 - "I'll look at this tomorrow/Monday" is a perfectly acceptable response
-- If something is truly urgent, I'll state this up-front, and we'll work together to figure out who needs to do what.
+- If something is truly urgent, I'll state this up-front, and we'll work together to figure out who needs to do what to support.
 
 ### Setting Healthy Boundaries
 
-Building great products is a marathon, not a sprint. I've seen too many brilliant engineers burn out because they couldn't switch off. Here's how I'll support your boundaries:
+Building great products is a marathon, not a sprint. All to often I've seen people (including myself) struggle to switch off. Here are some suggestions:
 
-- **Protect your focus time** - Block out deep work time in your calendar. I'll respect it
+- **Protect your focus time** - Block out deep work time in your calendar. I'll respect it. Office 365 has a great focus hours feature to do this automatically and ensure you get gaps.
 - **Life happens** - Need to pick up kids, walk the dog, deal with life? Do it. Just keep people informed
-- **Sustainable pace** - If you're regularly working more than your contracted hours, let's talk. Either we have a resourcing issue or unrealistic expectations
+- **Sustainable pace** - If you're regularly working more than your contracted hours, let's talk. Either we have a resourcing issue or unrealistic expectations. I can help, if I'm aware.
 
 ### When Boundaries Get Blurry
 
