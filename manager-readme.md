@@ -8,7 +8,7 @@ This README is designed to help you understand how I work, what you can expect f
 
 I'm Darren, I've spent 25+ years in software engineering roles, some of which were hybrid software engineering and program management. Last 3 years at THG, then 20 years at Microsoft, Siemens, and various startups. I'm passionate about building durable software products that exceed end-users expectations. I live in Bath, Somerset. Married with 2 (grown up children) and 2 Cocker Spaniels.
 
-I've had the privilege of working on innovative, ground-breaking projects for organisations like THG, BBC, BMW, Coca Cola, Met Police, and Nationwide Building Society. I've led teams ranging from small squads to 200+ engineers, and I take pride in the careers I've helped accelerate along the way.
+I've had the privilege of working on innovative, ground-breaking projects for organisations like THG, BBC, BMW, Volvo, Coca Cola, Met Police, and Nationwide Building Society. I've led teams ranging from small squads to 200+ engineers, and I take pride in the careers I've helped accelerate along the way.
 
 I'm a hands-on technical leader who still loves diving into the code where appropriate, but I'm equally comfortable helping define the business strategy and deeply understanding the actual end user needs. I believe the best solutions come from understanding both the technical possibilities and the human problems we're trying to solve.
 
@@ -105,6 +105,7 @@ These happen roughly every quarter, but I'm always available if something urgent
 ## My Quirks & Things to Know
 
 - I have a strong bias for action. I believe progress is made by getting things into users' hands quickly so expect me to push on opportunities to enable this, especially when faced with a long delivery timescale. I may even jump-in and help prove out a technical point to help. This helps me validate my thinking at times and hopefully helps connect dots and move things forward.
+- I am a strong proponent of how tooling (including LLM powered engineering tools) can help us ship product faster and with a higher quality bar. It's not a question of **IF** but **WHAT** we will use the tooling for today and keep an open mind about tomorrow. I have hands-on experience and will actively test and suggest ways to incorporate this in a safe and sensible manner.
 - It's totally fine to say "I don't know", in fact encouraged! But I do expect curiosity and initiative to go find out and let me know how I can support
 - I love data and will often ask for metrics to support decisions
 - I get excited about technical details and might dive deep, it's **not** that I don't trust you, I'm just curious!
