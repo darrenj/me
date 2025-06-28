@@ -1,6 +1,6 @@
 # Manager README - Darren Jefford
 
-## About This Document
+## What is this?
 
 This README is designed to help you understand how I work, what you can expect from me, and what I expect from you. It's a living document that will evolve as we work together. Think of it as a user guide to working with me, not a replacement for getting to know each other, but a head start.
 
@@ -16,11 +16,11 @@ I'm a hands-on technical leader who still loves diving into the code where appro
 
 My job is to:
 - **Set clear direction and context**: You should understand not just what we're building, but why
-- **Predictable, high quality software delivery**: Help build a highly functioning engineering organisation that is known for high quality, predictable delivering supporting the wider business strategy
+- **Predictable, high quality software delivery**: Help build a highly functioning engineering organisation that is known for high quality and predictable delivery supporting the wider business strategy
 - **Remove blockers**: I'm here to help understand, challenge and find creative ways through blockers enabling us to do our best work
 - **Product management**: Building, strong partnerships with Product Management where we build empathy for end-user needs and their priorities whilst ensuring the engineering perspective is fully understood
-- **Supporting your growth**: Through coaching, and helping enable new stretch opportunities whilst supporting closely
-- **Creating space for autonomy**: I'll set ambitious goals and guardrails but trust you to find the best path. I'm here to help.
+- **Supporting your growth**: Through coaching, and helping enable new stretch opportunities with close support as needed
+- **Creating space for autonomy**: I'll set ambitious goals and guardrails but trust you to find the best path. I'm here to help
 - **Championing your success**: Ensuring you get the recognition you deserve, both internally and externally
 
 ## My Leadership Philosophy
@@ -37,7 +37,7 @@ I will (respectfully!) challenge assumptions and use curiosity and techniques li
 ### Transparency & Context
 It's important for everyone to understand the "why" behind organisational/roadmap changes. I'll share as much context as possible when these happen.
 
-### Embrace experimentation
+### Embrace Experimentation
 I encourage experimentation through spikes and MVPs, ideally testing with real-world users through A/B testing. Let's prove value quickly before getting too far into something. I expect teams to iterate fast and get things into the hands of users as quickly as is sensible.
 
 ## Communication & Availability
@@ -62,10 +62,10 @@ I believe in transparency around decisions. You deserve to understand not just w
 - I'll explain the constraints and trade-offs we faced
 - If a decision changes, I'll explain why
 
-**If I fail to do this, please call me out.** Sometimes in the rush of things, I might forget to close the loop or provide context. A simple "Hey Darren, can you share more context on X?' is always welcome and appreciated.
+**If I fail to do this, please call me out.** Sometimes in the rush of things, I might forget. A simple "Hey Darren, can you share more context on X?' is always welcome and appreciated.
 
 ### Response Times
-I *don't* expect real-time responses to everything, but I do ask that we close the loop on everything we open. If something's going to take time, just let me know.
+I *don't* expect real-time responses to everything, but do follow-up. If something's going to take time, just let me know.
 
 ### No Surprises
 If something looks like it might become an issue, give me a heads-up at the earliest opportunity. Early visibility means I can potentially offer insight or help before things escalate.
@@ -79,7 +79,7 @@ I typically use 1:1s to:
 - Understand what you need from me
 - Discuss team issues or concerns
 - Explore broad strategy questions
-- Feedback for me, how N can help support?
+- Feedback for me, how can I help support?
 
 ### Skip-Level 1:1s
 
@@ -107,6 +107,7 @@ These happen roughly every quarter, but I'm always available if something urgent
 - I have a strong bias for action. I believe progress is made by getting things into users' hands quickly so expect me to push on opportunities to enable this, especially when faced with a long delivery timescale. I may even jump-in and help prove out a technical point to help. This helps me validate my thinking at times and hopefully helps connect dots and move things forward.
 - I am a strong proponent of how tooling (including LLM powered engineering tools) can help us ship product faster and with a higher quality bar. It's not a question of **IF** but **WHAT** we will use the tooling for today and keep an open mind about tomorrow. I have hands-on experience and will actively test and suggest ways to incorporate this in a safe and sensible manner.
 - It's totally fine to say "I don't know", in fact encouraged! But I do expect curiosity and initiative to go find out and let me know how I can support
+- I'll often have strong opinions, typically based on experience across many different products and technologies over the years. I strive however to not lead with these and instead listen and *totally* open to different ideas. Please feel free to disagree or counter them!
 - I love data and will often ask for metrics to support decisions
 - I get excited about technical details and might dive deep, it's **not** that I don't trust you, I'm just curious!
 - End-to-end Observability across the whole product is a fundamental, non-negotiable principle for me. I had my fingers burnt many years ago when inheriting a complex, mission critical product suffering from significant operational issues that had almost no telemetry!
@@ -157,4 +158,4 @@ Remember: we're all here to build great products that solve real problems. Let's
 ---
 
 *Last updated: June 2025*  
-*Questions or feedback? Let's discuss*
+*Questions or feedback? Let me know!
