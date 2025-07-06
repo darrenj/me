@@ -16,7 +16,7 @@ I'm a hands-on technical leader who still loves diving into  code and technical 
 
 My job is to:
 - **Set clear direction and context**: You should understand not just what we're building, but why
-- **Predictable, high quality software delivery**: Help build a highly functioning engineering organisation that is known for predictable delivery, high quality with a positive, safe and supportive culture
+- **Predictable, high quality software delivery**: Help build a highly functioning engineering organisation that is known for predictable delivery and high quality with a positive, safe and supportive culture
 - **Remove blockers**: I'm here to help understand, challenge and find creative ways through blockers enabling us to do our best work
 - **Product management**: Building strong partnerships with Product Management where we build empathy for end-user needs and their priorities whilst ensuring the engineering perspective is fully understood
 - **Supporting your growth**: Through coaching, and helping enable new stretch opportunities (with support!)
@@ -150,5 +150,5 @@ Remember: we're all here to build great products that solve real problems. Let's
 
 ---
 
-*Last updated: June 2025*  
+*Last updated: July 2025*  
 *Questions or feedback? Let me know!
